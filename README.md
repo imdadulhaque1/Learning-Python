@@ -1,4 +1,4 @@
-# Python_Basics_02
+# Learning Python
 Below the list of storing files where I just wrote the python codes and it's serially given.
 1. String
 2. Lists
